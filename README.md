@@ -37,7 +37,7 @@ The Ubuntu ISO file was selected using the **Boot from ISO image** option.
 
 ### Screenshot
 
-![UTM Ubuntu Setup](images/01-utm-ubuntu.png)
+![UTM Ubuntu Setup](01-utm-ubuntu.png)
 
 ---
 
