@@ -37,7 +37,7 @@ Ubuntu Server was installed and launched successfully using UTM.
 
 After installation, the system displayed the login screen. The username and password were entered to access the Ubuntu terminal.
 
-![Ubuntu Login](images/01-ubuntu-login.png)
+![Ubuntu Login](01-ubuntu-login.png)
 
 ---
 
@@ -56,7 +56,7 @@ Ubuntu 22.04.5 LTS
 Codename: jammy
 ```
 
-![Ubuntu Version](images/02-ubuntu-version.png)
+![Ubuntu Version](02-ubuntu-version.png)
 
 ---
 
@@ -70,7 +70,7 @@ sudo apt update
 
 This step allows Ubuntu to get the latest package information from the available repositories.
 
-![Update System](images/03-update-system.png)
+![Update System](03-update-system.png)
 
 ---
 
