@@ -201,7 +201,7 @@ topic
 
 This confirms that ROS 2 was installed successfully.
 
-![ROS 2 Help Test](images/10-ubuntu-system.png)
+![ROS 2 Help Test](10-ubuntu-system.png)
 
 ---
 
