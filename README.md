@@ -152,7 +152,7 @@ sudo apt install ros-humble-ros-base -y
 
 ROS Base is suitable for terminal-based ROS 2 development and includes the core ROS 2 tools and communication packages.
 
-![Install ROS 2 Base](08-ubuntu-system.png)
+![Install ROS 2 Base](08-ubutnu-system.png)
 
 ---
 
