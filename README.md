@@ -70,7 +70,7 @@ sudo apt update
 
 This step allows Ubuntu to get the latest package information from the available repositories.
 
-![Update System](03-update-system.png)
+![Update System](03-ubuntu-system.png)
 
 ---
 
@@ -84,7 +84,7 @@ sudo apt install software-properties-common curl -y
 
 These tools are needed to manage repositories and download the ROS 2 key.
 
-![Install Required Tools](images/04-install-required-tools.png)
+![Install Required Tools](04-ubuntu-system.png)
 
 ---
 
@@ -96,7 +96,7 @@ The Ubuntu Universe repository was enabled because ROS 2 requires some packages 
 sudo add-apt-repository universe
 ```
 
-![Enable Universe Repository](images/05-enable-universe.png)
+![Enable Universe Repository](05-ubuntu-system.png)
 
 ---
 
@@ -138,7 +138,7 @@ After adding the repository, the package list was updated again:
 sudo apt update
 ```
 
-![ROS 2 Repository Update](images/06-ros2-repository-update.png)
+![ROS 2 Repository Update](07-ubuntu-system-update.png)
 
 ---
 
@@ -152,7 +152,7 @@ sudo apt install ros-humble-ros-base -y
 
 ROS Base is suitable for terminal-based ROS 2 development and includes the core ROS 2 tools and communication packages.
 
-![Install ROS 2 Base](07-ubuntu-system.png)
+![Install ROS 2 Base](08-ubuntu-system.png)
 
 ---
 
