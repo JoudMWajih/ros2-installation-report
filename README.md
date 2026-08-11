@@ -138,7 +138,7 @@ After adding the repository, the package list was updated again:
 sudo apt update
 ```
 
-![ROS 2 Repository Update](07-ubuntu-system-update.png)
+![ROS 2 Repository Update](07-ubuntu-system.png)
 
 ---
 
