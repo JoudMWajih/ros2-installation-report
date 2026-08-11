@@ -37,7 +37,7 @@ Ubuntu Server was installed and launched successfully using UTM.
 
 After installation, the system displayed the login screen. The username and password were entered to access the Ubuntu terminal.
 
-![Ubuntu Login](01-ubuntu-login.png)
+![Ubuntu Login](01-ubuntu-system.png)
 
 ---
 
@@ -56,7 +56,7 @@ Ubuntu 22.04.5 LTS
 Codename: jammy
 ```
 
-![Ubuntu Version](02-ubuntu-version.png)
+![Ubuntu Version](02-ubuntu-system.png)
 
 ---
 
